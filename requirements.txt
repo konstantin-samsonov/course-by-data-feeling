@@ -1,5 +1,8 @@
 jupyter
 numpy
 pandas
+seaborn
 catboost
 scikit-learn
+tqdm
+iterative-stratification
