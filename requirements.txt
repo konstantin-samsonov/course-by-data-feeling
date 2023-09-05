@@ -6,3 +6,5 @@ catboost
 scikit-learn
 tqdm
 iterative-stratification
+phik
+shap
